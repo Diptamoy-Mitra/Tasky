@@ -1,4 +1,5 @@
 # Tasky
+Tech Stack:- HTML,CSS, ANGULAR JS cdn
 Replit: - https://replit.com/@37DiptamoyDipta/Tasky-Your-Daily-Task-Management-Application
 
 
